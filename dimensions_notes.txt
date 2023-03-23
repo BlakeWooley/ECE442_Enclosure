@@ -1,0 +1,13 @@
+LCD dimensions:
+50.1mm wide
+69.2mm long
+3.6mm thick
+
+LCD PCB: 
+8.5mm thick (SD slot to LCD), 1.7mm itself, 4.9mm with sd slot
+86mm long
+50mm wide
+
+Stated enclosure size: 152mm wide, 228mm long, 101mm thick
+original gameboy size: 90mm wide, 148mm long, 32mm thick
+my enclosure size: (need 5mm walls)
